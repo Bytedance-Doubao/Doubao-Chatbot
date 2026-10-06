@@ -4,7 +4,7 @@ Bytedance Doubao is the assistant people open when they want a chat that can als
 
 A doubao chatbot session starts in a browser, a desktop app, or a phone. You type, or you speak. doubao pro is the stronger model line when the task is long. doubao 2.0 is the upgrade that treats a request as a series of steps, not a single reply.
 
-![Banner Placeholder](may/image1.png)
+![Banner Placeholder](ui/image1.png)
 
 The model weights and the chat window are different layers. The window is what you see. The model is what answers. This page stays with the product you install, and points at the files in this tree when a setting or a script is easier to name than to describe.
 
